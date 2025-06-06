@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discover Boulder</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,700&display=swap" rel="stylesheet">
+  <style>html { scroll-behavior: smooth; }</style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="banner-box">
+      <div class="banner-title">boulder, co</div>
+      <div class="banner-subtitle">explore the colorado heaven!</div>
+    </div>
+  </header>
+  <nav class="navbar">
+  <ul class="nav-links">
+    <li><a href="index.html">home</a></li>
+    <li><a href="attractions.html">top attractions</a></li>
+    <li><a href="food.html">food guide</a></li>
+    <li><a href="gallery.html">photo gallery</a></li>
+    <li class="dropdown">
+      <a href="#" class="dropbtn">see more</a>
+      <ul class="dropdown-content">
+        <li><a href="#newsletter">Travel Newsletter</a></li>
+        <li><a href="https://www.youtube.com/watch?v=8XWkV5r_SP4" target="_blank">History of Boulder</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  <main>
+    <div class="hero-content">
+      <div class="poem-bg">
+        <div class="typing-poem">
+          <span id="typed-text"></span>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script>
+const poem = `Be Boulder. Be you.\n\nBe the stillness of a sunrise hike and the rush of a downhill ride.\nBe bare feet in creek water, coffee in hand, dreams in motion.\nThis town doesn't ask you to change — it asks you to arrive.\nTo show up curious, wild, calm, loud, quiet — exactly as you are.\nHere, the mountains don't just frame the view — they frame your next chapter.\nSo take a deep breath.\nWander a little.\nStay a while.\nBecause in Boulder, every story starts with one step toward being truly you.`;
+const typedText = document.getElementById('typed-text');
+let i = 0;
+function typePoem() {
+  if (i < poem.length) {
+    if (poem[i] === '\n') {
+      typedText.innerHTML += '<br>';
+    } else {
+      typedText.innerHTML += poem[i];
+    }
+    i++;
+    setTimeout(typePoem, 55);
+  }
+}
+typePoem();
+</script>
+<div class="map-section">
+  <div class="map-container">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d107300.34623441941!2d-105.30375185196088!3d40.02583526365783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876b8d4e278dafd3%3A0xc8393b7ca01b8058!2sBoulder%2C%20CO!5e1!3m2!1sen!2sus!4v1749227824294!5m2!1sen!2sus" 
+      width="100%" 
+      height="450" 
+      style="border:0; border-radius: 1rem;" 
+      allowfullscreen="" 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</div>
+
+<section id="newsletter" class="newsletter-section">
+  <h2>Sign Up for Boulder Travel Newsletter</h2>
+  <form class="newsletter-form" autocomplete="off">
+    <input type="text" name="name" placeholder="Your Name" required>
+    <input type="email" name="email" placeholder="Your Email" required>
+    <button type="submit">Subscribe</button>
+  </form>
+  <p class="newsletter-note">No spam, just the best of Boulder!</p>
+</section>
+</body>
+</html>
