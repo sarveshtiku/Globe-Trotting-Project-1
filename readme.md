@@ -6,7 +6,7 @@ Submitted by: **NAME**
 
 Estimated time spent: **#** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site]([https://sarveshtiku.github.io/globetrottingboulder/food.html))
+Deployed Application (optional): [Globetrotter Deployed Site] [https://sarveshtiku.github.io/globetrottingboulder/food.html]
 
 ### Application Features
 
