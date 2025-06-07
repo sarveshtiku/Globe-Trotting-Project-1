@@ -91,19 +91,19 @@ Deployed Application (optional): [Globetrotter Deployed Site] [https://sarveshti
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, the lab topics were very helpful in building the foundation for this project. Learning about Flexbox was especially useful, as it allowed me to create responsive layouts and align content properly across different screen sizes. The introduction to CSS Grid helped me structure more complex page layouts, particularly for the gallery and guide pages. One area where I initially felt underprepared was advanced CSS styling techniques—like using the box model effectively or managing spacing across elements. I overcame this by using Inspect Element in the browser to debug and tweak my CSS in real time, which turned out to be incredibly helpful.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+With more time, I would have liked to implement a Google Maps API integration to show real-time locations of attractions and restaurants. I also thought about adding a simple AI feature—something like a form where users could input their travel preferences (e.g., nature, nightlife, food), and the site would recommend places to visit accordingly. This would make the experience more personalized and interactive.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I think the overall presentation and structure of the demo went well. I was able to clearly explain what I built and the motivations behind each feature. What I’d like to improve is how I communicate the technical depth of the project. I want to be able to clearly explain both to technical and non-technical audiences what I did, why it matters, and what I plan to build next. For future demos, I’d like to focus on polishing the visual design and adding some final touches to better showcase the work I’ve done.
 
 ### Open-source libraries used
 
 - Add any links to open-source libraries used in your project.
 
 ### Shout out
-Big Shout out to Alex, Devarsh, Keith, and Lucia
+Big shout out to Alex, Devarsh, Keith, and Lucia—and also my co-scholar Paula! Thanks for all the support and feedback throughout the project 🙏
