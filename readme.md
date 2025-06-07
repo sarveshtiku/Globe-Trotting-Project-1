@@ -1,10 +1,11 @@
 ## Unit Assignment: Globetrotter
 
-Submitted by: **Sarvesh**
+Submitted by: **Sarvesh Tiku**
 
 Estimated time spent: **10** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site] [https://sarveshtiku.github.io/globetrottingboulder/food.html]
+Deployed Application (optional): [Globetrotter Deployed Site](https://sarveshtiku.github.io/globetrottingboulder/food.html)
+
 
 ### Application Features
 
@@ -103,7 +104,10 @@ I think the overall presentation and structure of the demo went well. I was able
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- [W3Schools CSS Reference]([https://sarveshtiku.github.io/globetrottingboulder/food.html](https://www.w3schools.com/css/))
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/))
+- [MDN Web Docs](https://developer.mozilla.org/en-US/))
 
 ### Shout out
 Big shout out to Alex, Devarsh, Keith, and Lucia—and also my co-scholar Paula! Thanks for all the support and feedback throughout the project 🙏
