@@ -86,7 +86,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://sarveshtik
 
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
-[Luma Video Walkthrough]([https://sarveshtiku.github.io/globetrottingboulder/food.html](https://www.w3schools.com/css/))
+[Luma Video Walkthrough](https://www.loom.com/share/1f8d72dc35714e9aa1ec7dd54eeedc2d?sid=7c2ce042-13eb-4a7e-9735-7635e95742c4)
 
 ### Reflection
 
@@ -104,7 +104,7 @@ I think the overall presentation and structure of the demo went well. I was able
 
 ### Open-source libraries used
 
-- [W3Schools CSS Reference]([https://sarveshtiku.github.io/globetrottingboulder/food.html](https://www.w3schools.com/css/))
+- [W3Schools CSS Reference](https://sarveshtiku.github.io/globetrottingboulder/food.html](https://www.w3schools.com/css/ )
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
