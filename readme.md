@@ -85,8 +85,6 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://sarveshtik
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
 [Luma Video Walkthrough](https://www.loom.com/share/1f8d72dc35714e9aa1ec7dd54eeedc2d?sid=7c2ce042-13eb-4a7e-9735-7635e95742c4)
 
 ### Reflection
