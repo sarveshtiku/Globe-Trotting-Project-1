@@ -111,3 +111,13 @@ I think the overall presentation and structure of the demo went well. I was able
 
 ### Shout out
 Big shout out to Alex, Devarsh, Keith, and Lucia—and also my co-scholar Paula! Thanks for all the support and feedback throughout the project 🙏
+
+### Screenshots from the website:
+<img width="1102" alt="Screenshot 2025-06-06 at 10 24 32" src="https://github.com/user-attachments/assets/f3665bf9-9f2b-4055-834a-cc8be07bb0c9" />
+<img width="688" alt="Screenshot 2025-06-06 at 10 24 45" src="https://github.com/user-attachments/assets/29cfeecf-4ce4-4828-921a-a65907d65ba9" />
+<img width="994" alt="Screenshot 2025-06-06 at 10 24 55" src="https://github.com/user-attachments/assets/04c93f3c-a1e3-4b66-977b-6e6fdd714e02" />
+<img width="644" alt="Screenshot 2025-06-06 at 10 25 11" src="https://github.com/user-attachments/assets/0db67886-bf38-4d2b-a957-dc3e941ad953" />
+
+
+
+
