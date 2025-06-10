@@ -6,6 +6,7 @@ Estimated time spent: **10** hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](https://sarveshtiku.github.io/globetrottingboulder/)
 
+<img width="1160" alt="Screenshot 2025-06-10 at 00 39 30" src="https://github.com/user-attachments/assets/201c1d10-e131-4a95-94d8-a42403e0e49d" />
 
 ### Application Features
 
