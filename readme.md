@@ -2,7 +2,7 @@
 
 Submitted by: **Sarvesh Tiku**
 
-Estimated time spent: **10** hours spent in total
+Estimated time spent: **4** hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](https://sarveshtiku.github.io/globetrottingboulder/)
 
