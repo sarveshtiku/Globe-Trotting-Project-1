@@ -83,9 +83,6 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://sarveshtik
   - [x] Integrate at least one custom font using Google Fonts to add personality to your site.
   - [x] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
-### Walkthrough Video
-
-[Luma Video Walkthrough](https://www.loom.com/share/1f8d72dc35714e9aa1ec7dd54eeedc2d?sid=7c2ce042-13eb-4a7e-9735-7635e95742c4)
 
 ### Reflection
 
